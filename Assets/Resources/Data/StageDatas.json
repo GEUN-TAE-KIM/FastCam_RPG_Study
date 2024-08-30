@@ -1,0 +1,54 @@
+{
+	"Stages" :
+	[
+		{
+			"StageId" : 1,
+			"MaxSpawn" : 100,
+			"DropId" : "Drop0",
+			"UnitPaths" : 
+			[
+				{
+					"Id" : "cactus",
+					"Path" : "Prefabs/Units/NPC_Cactus",
+					"Speed" : 1,
+					"Hp" : 500,
+					"Armor" : 10,
+					"Power" : 200
+				},
+				{
+					"Id" : "mushroom",
+					"Path" : "Prefabs/Units/NPC_Mushroom",
+					"Speed" : 2,
+					"Hp" : 500,
+					"Armor" : 10,
+					"Power" : 200
+				}
+			],
+			"Boss":
+			{
+				"Id" : "dragon",
+				"Path" : "Prefabs/Units/BOSS_RedDragon",
+				"Speed" : 2,
+				"Hp" : 500,
+				"Armor" : 10,
+				"Power" : 200
+			}
+		},
+		{
+			"StageId" : 2,
+			"MaxSpawn" : 100,
+			"DropId" : "Drop1",
+			"UnitPaths" : 
+			[
+				{
+					"Id" : "mushroom",
+					"Path" : "Prefabs/Units/NPC_Mushroom",
+					"Speed" : 2,
+					"Hp" : 500,
+					"Armor" : 10,
+					"Power" : 100
+				}
+			]
+		}
+	]
+}

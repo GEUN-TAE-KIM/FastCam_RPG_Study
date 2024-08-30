@@ -1,0 +1,40 @@
+{
+	"DropData" :
+	[
+		{
+			"DropId" : "Drop0",
+			"DropInfos" : 
+			[
+				{
+					"ItemId" : "Exp10",
+					"Ratio" : 100
+				},
+				{
+					"ItemId" : "Gold",
+					"Ratio" : 100
+				}
+			],
+			"BossDropInfos":
+			[
+				{
+					"ItemId" : "ManualSword",
+					"Ratio" : 100
+				}
+			]
+		},
+		{
+			"DropId" : "Drop1",
+			"DropInfos" : 
+			[
+				{
+					"ItemId" : "Exp10",
+					"Ratio" : 100
+				},
+				{
+					"ItemId" : "ManualSword",
+					"Ratio" : 100
+				}
+			]
+		},
+	]
+}

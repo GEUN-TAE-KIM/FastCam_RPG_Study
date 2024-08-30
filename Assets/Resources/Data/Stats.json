@@ -1,0 +1,96 @@
+{
+	"Stats": [
+		{
+			"Id": "Weapon1",
+			"Enchant": [
+				{
+					"Level": 0,
+					"Attack": 1000,
+					"Armor": 0,
+					"Speed": 0
+				},
+				{
+					"Level": 1,
+					"Attack": 1100,
+					"Armor": 0,
+					"Speed": 0
+				},
+				{
+					"Level": 2,
+					"Attack": 1200,
+					"Armor": 0,
+					"Speed": 0
+				}
+			]
+		},
+		{
+			"Id": "Weapon2",
+			"Enchant": [
+				{
+					"Level": 0,
+					"Attack": 20,
+					"Armor": 0,
+					"Speed": 0
+				},
+				{
+					"Level": 1,
+					"Attack": 30,
+					"Armor": 0,
+					"Speed": 0
+				},
+				{
+					"Level": 2,
+					"Attack": 40,
+					"Armor": 0,
+					"Speed": 0
+				}
+			]
+		},
+		{
+			"Id": "Armor1",
+			"Enchant": [
+				{
+					"Level": 0,
+					"Attack": 0,
+					"Armor": 10,
+					"Speed": 10
+				},
+				{
+					"Level": 1,
+					"Attack": 0,
+					"Armor": 20,
+					"Speed": 20
+				},
+				{
+					"Level": 2,
+					"Attack": 0,
+					"Armor": 30,
+					"Speed": 30
+				}
+			]
+		},
+		{
+			"Id": "Speed1",
+			"Enchant": [
+				{
+					"Level": 0,
+					"Attack": 0,
+					"Armor": 0,
+					"Speed": 10
+				},
+				{
+					"Level": 1,
+					"Attack": 0,
+					"Armor": 0,
+					"Speed": 20
+				},
+				{
+					"Level": 2,
+					"Attack": 0,
+					"Armor": 0,
+					"Speed": 30
+				}
+			]
+		}
+	]
+}

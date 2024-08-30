@@ -1,0 +1,14 @@
+{
+	"ShopDatas": [
+		{
+			"Id": "Weapon",
+			"Item": "ManualSword",
+			"Price": 1500
+		},
+		{
+			"Id": "Armor",
+			"Item": "BaseArmor",
+			"Price": 2000
+		}
+	]
+}

@@ -1,0 +1,46 @@
+{
+	"Items": [
+		{
+			"Id": "Exp10",
+			"Type": "Exp",
+			"Path": "Prefabs/Items/ExpItem100",
+			"IsStackable" : "true",
+			"Value": 50
+		},
+		{
+			"Id": "Exp15",
+			"Type": "Exp",
+			"Path": "Prefabs/Items/ExpItem150",
+			"IsStackable" : "true",
+			"Value": 50
+		},
+		{
+			"Id": "Gold",
+			"Type": "Gold",
+			"Path": "Prefabs/Items/GoldItemObject",
+			"IsStackable" : "true",
+			"Value": 1
+		},
+		{
+			"Id": "ManualSword",
+			"Type": "Weapon",
+			"IconPath" : "UI/Item/Icon_Sword",
+			"Path": "Prefabs/Items/WeaponSword",
+			"IsStackable" : "false",
+			"Stat":"Weapon1",
+			"SellPrice":1000,
+			"Value": 1
+		},
+		{
+			"Id": "BaseArmor",
+			"Type": "Armor",
+			"IconPath" : "UI/Item/Icon_Armor",
+			"Path": "Prefabs/Items/WeaponSword",
+			"IsStackable" : "false",
+			"Stat":"Armor1",
+			"SellPrice":1000,
+			"Value": 1
+		}
+
+	]
+}
